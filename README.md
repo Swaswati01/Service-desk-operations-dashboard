@@ -61,3 +61,11 @@ To analyze service desk operations and identify:
 ## 🚀 Conclusion
 
 This project helps understand service desk performance and identify areas to improve resolution efficiency and SLA compliance.
+
+
+---
+
+## 📁 Project Files
+- SQL queries used for analysis
+- Power BI dashboard file (.pbix)
+- Dashboard preview screenshot
