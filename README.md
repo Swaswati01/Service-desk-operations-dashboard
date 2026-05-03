@@ -1,49 +1,63 @@
-📌 Service Desk Operations Analytics Dashboard
+# 📌 Service Desk Operations Analytics Dashboard
 
-This project is a Service Desk Operations Dashboard built using SQL and Power BI to analyze ticketing system data and derive insights into support efficiency, workload distribution, and SLA performance.
+This project is a **Service Desk Operations Dashboard** built using SQL and Power BI to analyze ticketing system data and generate insights on support efficiency, workload distribution, and SLA performance.
 
+---
 
-🎯 Objective
+## 🎯 Objective
 
--To analyze service desk operations and identify key performance trends in ticket handling, resolution efficiency, and channel usage.
+To analyze service desk operations and identify:
+- Ticket resolution efficiency  
+- Support channel performance  
+- Priority-based workload distribution  
+- SLA risk areas  
 
+---
 
-🛠️ Tools Used
--SQL (PostgreSQL)
--Power BI
--DAX (Data Analysis Expressions)
+## 🛠️ Tools Used
 
+- SQL (PostgreSQL)  
+- Power BI  
+- DAX  
 
-📊 Key Features
--Ticket volume analysis (20K+ tickets)
--Open vs Closed ticket tracking
--Channel-wise distribution (Web, Chat, Email)
--Priority-based ticket segmentation
--Issue category breakdown
--Average resolution time analysis
+---
 
+## 📊 Key Features
 
-📈 Key Metrics (KPIs)
--Total Tickets
--Resolution Rate
--Open vs Closed Ratio
--SLA Breach Risk (High Priority Tickets)
--Channel Contribution (%)
+- 20K+ ticket analysis  
+- Open vs Closed tracking  
+- Channel-wise breakdown (Web, Chat, Email)  
+- Priority-based analysis  
+- Issue category distribution  
+- Average resolution time  
 
+---
 
-📊 Dashboard Preview
+## 📈 Key KPIs
+
+- Total Tickets  
+- Resolution Rate  
+- Open vs Closed Ratio  
+- High Priority Tickets  
+- Channel Contribution (%)  
+
+---
+
+## 📊 Dashboard Preview
 
 ![Dashboard](dashboard_preview.png)
 
+---
 
-💡 Key Insights
+## 💡 Key Insights
 
-~80% of tickets are resolved successfully
--Web channel generates the highest ticket volume
--Certain high-priority tickets remain open, indicating SLA risk
--Ticket distribution is uneven across channels
+- Around 80% of tickets are resolved  
+- Web channel generates highest ticket volume  
+- Some high-priority tickets remain open (SLA risk)  
+- Uneven workload distribution across channels  
 
+---
 
-🚀 Conclusion
+## 🚀 Conclusion
 
-This project demonstrates how service desk data can be transformed into actionable insights to improve operational efficiency, reduce SLA risks, and optimize support channels.
+This project helps understand service desk performance and identify areas to improve resolution efficiency and SLA compliance.
